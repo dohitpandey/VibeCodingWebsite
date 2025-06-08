@@ -2,7 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://vibecoding.free.nf/sitemap.xml
-User-agent: *
-Allow: /
-
-Sitemap: https://vibecoding.free.nf/sitemap.xml
